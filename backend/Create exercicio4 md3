@@ -1,0 +1,2 @@
+var valor = Math.asin(0.14);
+console.log(valor);
