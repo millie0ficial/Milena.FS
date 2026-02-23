@@ -1,0 +1,2 @@
+var valor = Math.abs(-1234);
+console.log(valor); // 1234
