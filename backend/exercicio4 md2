@@ -1,0 +1,2 @@
+var valor = Math.acos(0.14);
+console.log(valor);
