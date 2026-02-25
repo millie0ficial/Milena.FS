@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title> Pograma que retorna o valor absoluto de um número </title>
+        </head>Autor: Milena Ferreira Silva
+        
+    <body>
+            <script>
+            var  valor1 = Math.abs (-1234);
+            alert (valor1);
+            </script>
+            </body>
+            </html>
