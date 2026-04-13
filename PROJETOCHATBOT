@@ -1,0 +1,10 @@
+/******************************************************************************
+
+Resumo do seu projeto de Node.js
+
+***************https://www.onlinegdb.com/#editor_1****************************************************************/
+console.log('Cabeçalho do projeto vem aqui');
+console.log('Nome da escola');
+console.log('Nome do curso');
+console.log('Nome da diciplina');
+console.log('Titulo do Projeto');
